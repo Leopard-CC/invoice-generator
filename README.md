@@ -14,7 +14,7 @@ npm start
 ```
 
 ### To-Do
-- [x] Finish parsing data into Preview Modal
+- [ ] Finish parsing data into Preview Modal
 
 - [ ] Currency Picker/Exchange Rates
 
